@@ -1,0 +1,25 @@
+{
+  "name": "stash-cli",
+  "version": "0.0.0",
+  "description": "A cli for interating with Stash, Atlassian's version control",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bspaulding/stash-cli.git"
+  },
+  "keywords": [
+    "node",
+    "stash",
+    "version",
+    "control"
+  ],
+  "author": "brad.spaulding@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bspaulding/stash-cli/issues"
+  },
+  "homepage": "https://github.com/bspaulding/stash-cli"
+}
